@@ -1,0 +1,6 @@
+[submodule "fronted"]
+	path = fronted
+	url = https://github.com/MedianetConsulting/SI_ENFANCE_Parent_Front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MedianetConsulting/SI_ENFANCE_Parent_Back.git
